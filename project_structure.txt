@@ -1,0 +1,12 @@
+iris-flower-classification-ml/
+│
+├── iris_flower_classification.ipynb
+├── README.md
+│
+└── images/
+    ├── accuracy_output.png
+    ├── classification_report.png
+    ├── predicted_flower.png
+    ├── setosa_graph.png
+    ├── versicolor_graph.png
+    └── virginica_graph.png
